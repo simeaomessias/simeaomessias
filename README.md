@@ -1,7 +1,8 @@
 ## Olá! Meu nome é Simeão Messias.
 
-- Sou engenheiro químico, em processo de transição de carreira para a área de tecnologia da informação.
-- Atualmente, estou focado no aprendizado prático de tecnologias, metodologias e habilidades direcionadas para a implementação de aplicações web.
+- Formado em engenharia química, atuo desde 2014 como analista ambiental na Secretaria Municipal do Meio Ambiente de Aracaju.
+- Estou em transição de carreira para a área de tecnologia da informação e tenho focado os estudos no aprendizado prático de tecnologias, metodologias e habilidades direcionadas para a implementação de aplicações web. Possuo conhecimentos sólidos em HTML, CSS e JS e estou me aprofundando em Nodejs/Express e MongoDB.
+- Adicionalmente, tenho experiência com Fortran e Matlab, aplicados na solução de modelos matemáticos desenvolvidos para simulação e otimização de operações e processos industriais.
 
 ## Campo de estudo <br>
 
