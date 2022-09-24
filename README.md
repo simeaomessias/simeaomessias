@@ -13,8 +13,8 @@
   <img align="center" alt="Simeao-NODEJS" height="" width="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Simeao-EXPRESSS" height="" width="" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="Simeao-MONGODB" height="" width="" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Simeao-HEROKU" height="" width="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img align="center" alt="Simeao-PYTHON" height="" width="" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Simeao-HEROKU" height="" width="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
 
 ## Contatos <br>
