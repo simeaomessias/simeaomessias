@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Simeão Messias.
 
-- Formado em engenharia química, atuo desde 2014 como analista ambiental na Secretaria Municipal do Meio Ambiente de Aracaju.
+- Formado em engenharia química, atuei entre 2014 e 2022 como analista ambiental na Secretaria Municipal do Meio Ambiente de Aracaju.
 - Estou em transição de carreira para a área de tecnologia da informação e tenho focado os estudos no aprendizado prático de tecnologias, metodologias e habilidades direcionadas para a implementação de aplicações web. Possuo conhecimentos em HTML, CSS e JS e estou me aprofundando em Nodejs/Express e MongoDB.
 - Adicionalmente, tenho experiência com Fortran e Matlab, aplicados na solução de modelos matemáticos desenvolvidos para simulação e otimização de operações e processos industriais.
 
