@@ -1,7 +1,6 @@
 ## Olá! Meu nome é Simeão Messias.
 
-- Como Desenvolvedor Júnior, tenho focado os estudos no aprendizado prático de tecnologias, metodologias e habilidades direcionadas para a implementação de aplicações web. Possuo conhecimentos em HTML, CSS e JS e estou me aprofundando em Nodejs/Express e MongoDB.
-
+- Como desenvolvedor, tenho focado no aprendizado prático de tecnologias, metodologias e habilidades direcionadas para a implementação de aplicações web, especialmente com o Nodejs e MongoDB.
 
 ## Campo de estudo <br>
 
