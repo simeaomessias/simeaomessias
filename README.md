@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Simeão Messias.
 
-- Como desenvolvedor, tenho focado no aprendizado prático de tecnologias, metodologias e habilidades direcionadas para a implementação de aplicações web, especialmente com o Nodejs e MongoDB.
+Como desenvolvedor, tenho focado no aprendizado prático de tecnologias, metodologias e habilidades direcionadas para a implementação de aplicações web, especialmente com o Nodejs e MongoDB.
 
 ## Campo de estudo <br>
 
