@@ -1,8 +1,12 @@
-## Análista de dados.
+## Analista de dados.
 
 Atualmente, estou focado em me desenvolver na área de análise de dados.
 
 Graduado e mestre em engenharia química, atuei na áreas acadêmica e ambiental. Essas experiências fortaleceram minha capacidade de trabalhar com prazos definidos em ambientes diversos e com integração multidisciplinar.
+
+## Áreas de interesse <br>
+
+SQL, Python, BigQuery, Qlik Sense e Looker Studio.
 
 ## Contatos <br>
 
