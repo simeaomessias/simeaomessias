@@ -1,4 +1,4 @@
-## Olá! Meu nome é Simeão Messias.
+## Análista de dados.
 
 Atualmente, estou focado em me desenvolver na área de análise de dados.
 
