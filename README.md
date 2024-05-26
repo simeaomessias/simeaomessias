@@ -1,4 +1,4 @@
-## Analista de dados.
+## Analista de dados
 
 Atualmente, estou focado em me desenvolver na área de análise de dados.
 
